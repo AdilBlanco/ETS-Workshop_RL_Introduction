@@ -27,3 +27,6 @@ Numpy Installation:
 
 PyTorch Installation:
     https://pytorch.org/get-started/locally/
+
+DeepLearning Book
+    https://www.deeplearningbook.org
